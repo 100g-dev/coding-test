@@ -7,4 +7,4 @@
 ## 01. 알고리즘 이론
 > [이것이 취업을 위한 코딩테스트다 with 파이썬] 참조
 ### 1. 탐욕법 Greedy [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Greedy)
-### 2. 구현 Implementation  
+### 2. 구현 Implementation [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Implementation)
