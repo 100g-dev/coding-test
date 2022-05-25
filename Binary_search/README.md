@@ -7,7 +7,7 @@
 ### 1.부품 찾기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/find_parts.py)
 - 고유한 정수 번호를 가진 부품이 n개 있을 때, 손님이 m개 종류의 부품의 견적서를 요구했을 때 부품이 있으면 yes를, 없으면 no를 출력하여라.
 <details>
-<summary>➕ 다른 풀이</summary>
+<summary><b>➕ 다른 풀이</b></summary>
 <ul>
 <li>계수 정렬 <a href="https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/find_parts_count.py">↗</a></li>
 <li>집합 자료형 <a href="https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/find_parts_set.py">↗</a></li>
