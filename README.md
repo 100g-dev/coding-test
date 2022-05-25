@@ -8,3 +8,5 @@
 > [이것이 취업을 위한 코딩테스트다 with 파이썬] 참조
 ### 1. 탐욕법 Greedy [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Greedy)
 ### 2. 구현 Implementation [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Implementation)
+### 3. 탐색 DFS/BFS [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Search)
+### 4. 정렬 Sort [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Sort)
