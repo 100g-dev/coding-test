@@ -10,3 +10,4 @@
 ### 2. 구현 Implementation [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Implementation)
 ### 3. 탐색 DFS/BFS [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Search)
 ### 4. 정렬 Sort [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Sort)
+### 5. 이진 탐색 Binary Search [↗️ ](https://github.com/100g-dev/Coding_Test/tree/main/Binary_search)
