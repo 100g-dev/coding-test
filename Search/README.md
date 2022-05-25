@@ -12,12 +12,12 @@
   sys.setrecursionlimit(limit_number)
   ```
 ---
-## DFS(Depth-First Search) [↗](https://github.com/100g-dev/Coding_Test/blob/b979e2e3217a02ac802b4fc39af6d990c90412aa/Search/dfs.py)
+## DFS(Depth-First Search) [↗](https://github.com/100g-dev/Coding_Test/blob/main/Search/dfs.py)
 - 깊이 우선 탐색
 - 스택 또는 재귀함수를 이용하여 그래프의 깊은 부분부터 우선적으로 탐색
 <br></br>  
 
-## BFS(Breadth-First Search)[↗](https://github.com/100g-dev/Coding_Test/blob/b979e2e3217a02ac802b4fc39af6d990c90412aa/Search/bfs.py)
+## BFS(Breadth-First Search)[↗](https://github.com/100g-dev/Coding_Test/blob/main/Search/bfs.py)
 - 너비 우선 탐색
 - 큐를 이용하여 정점에 가까운 노트부터 탐색
 <br></br>
@@ -28,11 +28,11 @@
 - 최단 거리/ 대상 규모가 크지 않고 시작 지점에서 목표 대상이 가까운 경우 -> BFS
 <br></br>
 ---
-### 1. 음료수 얼려먹기 [↗](https://github.com/100g-dev/Coding_Test/blob/b979e2e3217a02ac802b4fc39af6d990c90412aa/Search/ice.py)
+### 1. 음료수 얼려먹기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Search/ice.py)
 - n*m 크기의 얼음틀에 칸막이는 1, 얼음칸은 0으로 표시되어 있을 때, 생성되는 총 아이스크림의 개수를 구하여라
 - 모든 정점 방문 -> DFS/BFS
 <br></br>  
 
-### 2. 미로 탈출 [↗](https://github.com/100g-dev/Coding_Test/blob/b979e2e3217a02ac802b4fc39af6d990c90412aa/Search/maze.py)
+### 2. 미로 탈출 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Search/maze.py)
 - n*m 크기의 미로에서 (1, 1)의 위치에서 출구인 (n, m)으로 이동해야 한다. 괴물이 있는 부분은 0으로 없는 부분은 1로 표시될 때, 움직여야 하는 최소칸의 개수를 구하여라.
 - 최단경로 -> BFS
