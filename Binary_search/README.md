@@ -1,7 +1,7 @@
 # 이진탐색 Binary Search
 - 정렬되어 있는 데이터의 시작점과 끝점을 기준으로 중간점의 데이터를 반복적으로 비교해 원하는 데이터를 탐색
 - 입력 데이터가 많거나, 탐색 범위가 매우 넓은 편에 속한다.
-- 재귀함수[↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/recursive_bs.py) 또는 반복문[↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/iteration_bs.py)을 이용
+- **재귀함수**[↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/recursive_bs.py) 또는 **반복문**[↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/iteration_bs.py)을 이용
 <br></br>  
 ---
 ### 1. 부품 찾기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/find_parts.py)
