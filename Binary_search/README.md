@@ -6,7 +6,7 @@
 ---
 ### 1. 부품 찾기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/find_parts.py)
 - 고유한 정수 번호를 가진 부품이 n개 있을 때, 손님이 m개 종류의 부품의 견적서를 요구했을 때 부품이 있으면 yes를, 없으면 no를 출력하여라.
-- **➕ 다른 풀이 : [계수정렬](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/find_parts_count.py), [집합 자료형](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/find_parts_set.py)**
+- **➕ 다른 풀이 : [계수 정렬](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/find_parts_count.py), [집합 자료형](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/find_parts_set.py)**
 <br></br>  
 ### 2. 떡볶이 떡 만들기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/ricecake.py)
 - 떡볶이 떡의 길이가 일정하지 않을 때, 절단기의 높이(h)보다 긴 떡은 위의 부분이 잘린다. 손님이 m 길이만큼 떡을 요청했을 때, 절단기에 설정할 수 있는 높이의 최댓값을 구하여라.
