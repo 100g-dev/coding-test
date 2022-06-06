@@ -11,3 +11,6 @@
 ### 2. 떡볶이 떡 만들기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/ricecake.py)
 - 떡볶이 떡의 길이가 일정하지 않을 때, 절단기의 높이(h)보다 긴 떡은 위의 부분이 잘린다. 손님이 m 길이만큼 떡을 요청했을 때, 절단기에 설정할 수 있는 높이의 최댓값을 구하여라.
 - 파라메트릭 서치(Parametric Search): 최적화 문제를 결정 문제로 바꾸어 해결
+---
+
+<div align="right"><a href="https://github.com/100g-dev/Coding_Test">메인 화면으로 ↩</a></div>
