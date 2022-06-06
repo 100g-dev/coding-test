@@ -45,3 +45,6 @@
 
 ### 2. 성적 출력 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Sort/grade.py)
 -n명의 학생 이름과 성적 정보가 입력될 때, 성적이 낮은 순서로 학생 이름을 출력하여라.
+---
+
+<div align="right"><a href="https://github.com/100g-dev/Coding_Test">메인 화면으로 ↩</a></div>
