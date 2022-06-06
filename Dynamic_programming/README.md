@@ -19,7 +19,7 @@
 - 재귀 함수 대신 반복문을 이용하면 오버헤드를 줄일 수 있어, 일반적으로 성능이 더 좋다.
 <br></br>
 ---
-### 1. 1로 만들기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Dynamic_programming/make_1.py)
+### 1. 1로 만들기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Dynamic_programming/make_one.py)
 - 정수 x가 주어질 때, 아래의 4가지 연산을 선택하여 1로 만든다. 이 때, 연산을 사용하는 최솟값을 구하여라.
   1. x가 5로 나누어 떨어지면, 5로 나눈다.
   2. x가 3으로 나누어 떨어지면, 3으로 나눈다.
