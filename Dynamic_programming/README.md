@@ -42,4 +42,6 @@
 ### 4. 효율적인 화폐 구성 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Dynamic_programming/effect_money.py)
 - n가지 종류의 화폐를 이용하여 합이 m원이 되도록 구성할 때, 최소한으로 사용할 수 있는 화폐 개수를 구하여라. (불가능한 경우는 -1)
 - $a_i = min(a_i,\ a_{i-k}+1)\ \ $  (단, $a_{i-k}$를 만드는 방법이 없을 때, $a_i = 10001$)
-<br></br>
+---
+
+<div align="right"><a href="https://github.com/100g-dev/Coding_Test">메인 화면으로 ↩</a></div>
