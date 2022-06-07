@@ -4,7 +4,8 @@ input = sys.stdin.readline
 
 def find_root(parent, x):
     if parent[x]!=x:
-        return find_root(parent, parent[x])
+        #return find_root(parent, parent[x]) 비효율
+        parent[x] = find_root(parent, parent[x]) #경로 압축: 호출하며 갱신
     return parent[x]
 
 def union_parent(parent, a, b):
