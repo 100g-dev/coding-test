@@ -1,4 +1,5 @@
 #17626 - Four Squares
+#pypy3 제출
 
 import math
 import sys
