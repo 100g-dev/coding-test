@@ -1,11 +1,10 @@
 #2579 - 계단 오르기
 
-# f(n) = S_n + f(n-3) + max(S_{n-2}, S_{n-1})
-
 n = int(input())
-score = []
+
+score = [0]*301
 for i in range(n):
-    score.append(int(input()))
+    score[i] = (int(input()))
 
 dp = [0]*301
 dp[0] = score[0]
