@@ -1,4 +1,5 @@
 #21942 - 도시 건설
+#pypy3
 
 def find_root(parent, x):
     if parent[x] != x:
