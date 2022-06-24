@@ -16,6 +16,9 @@ for s in string:
 
     elif tag == False:
         if s == '<':
+            if tmp:
+                result+=tmp[::-1]
+                tmp=[]
             tag = True
             tmp.append(s)
 
