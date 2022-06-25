@@ -4,7 +4,7 @@ n, k = map(int, input().split())
 
 count = (n+1)*60*60
 
-for h in range(0, n+1):
+for h in range(0, n+1): #입력 형식 주의
     if h<10: h='0'+str(h)
     else: h=str(h)
     for m in range(0, 60):
@@ -15,7 +15,7 @@ for h in range(0, n+1):
             else: s=str(s)
             
             tmp = list(h+m+s)
-            
+
             if str(k) not in tmp:
                 count -= 1
 
