@@ -9,15 +9,14 @@ def male_change(bulb, num):
 def female_change(bulb, num):
     i = num-1
     j = 1
-
+    
     bulb[i]=(bulb[i]+1)%2
 
-    while i-j>=0 and i+j<num:
+    while i-j>=0 and i+j<len(bulb):
         if bulb[i-j] == bulb[i+j]:
             bulb[i-j] = (bulb[i-j]+1)%2
             bulb[i+j] = (bulb[i+j]+1)%2
             j+=1
-            print('>>', *bulb)
         else:
             break
 
