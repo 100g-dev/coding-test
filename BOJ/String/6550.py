@@ -1,8 +1,9 @@
 #6550 - 부분 문자열
 
 while True:
-    s, t = input().split()
-    flag = False
+    try:
+        s, t = input().split()
+        flag = False
 
         index = 0
         for i in range(len(t)):
