@@ -12,5 +12,17 @@
 - 떡볶이 떡의 길이가 일정하지 않을 때, 절단기의 높이(h)보다 긴 떡은 위의 부분이 잘린다. 손님이 m 길이만큼 떡을 요청했을 때, 절단기에 설정할 수 있는 높이의 최댓값을 구하여라.
 - 파라메트릭 서치(Parametric Search): 최적화 문제를 결정 문제로 바꾸어 해결
 ---
+<br></br>
+## 기출문제
 
+### Q27. 정렬된 배열에서 특정 수의 개수 구하기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/q27.py)
+- Zoho 인터뷰, $O(logN)$
+- 입력: 정수 n과 x가 공백으로 구분되어 입력 (1 <= n <= 1000000, $-10^9$ <= x <= $10^9$ )
+- 출력: 수열의 원소 중에서 값이 x인 원소의 개수 (단, x인 원소가 없다면 -1)
+<br></br>
+### Q28. 고정점 찾기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Binary_search/q28.py)
+- Amazon 인터뷰, $O(logN)$
+- 입력: 정수 n과 n개의 원소가 공백으로 입력 (1 <= n <= 1000000, $-10^9$ <= 각 원소의 값 <= $10^9$ )
+- 출력: 고정점(값이 인덱스와 동일한 원소) (단, 고정점이 없다면 -1)
+---
 <div align="right"><a href="https://github.com/100g-dev/Coding_Test">메인 화면으로 ↩</a></div>
