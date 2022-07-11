@@ -1,4 +1,6 @@
 #q28 - 고정점 찾기
+#Amazon 인터뷰
+#OlogN)
 
 n = int(input())
 array = list(map(int, input().split()))
