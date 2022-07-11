@@ -22,5 +22,23 @@
   1. n에서 1을 뺀다.
   2. n을 k로 나눈다. (단, 나누어 떨어질 때만 선택 가능)
 ---
+<br></br>
+## 기출문제
 
+### Q01. 모험가 길드 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Greedy/q01.py)
+- 입력: 모험가의 수 n, 각 모험가의 공포도 값 (1 <= n <= 100000)
+- 출력: 여행을 떠날 수 있는 그룹 수의 최댓값
+<br></br>
+### Q02. 곱하기 혹은 더하기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Greedy/q02.py)
+- 입력: 여러 개의 숫자로 이뤄진 하나의 문자열
+- 출력: 만들어질 수 있는 가장 큰 수
+### Q03. 문자열 뒤집기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Greedy/q03.py)
+- BOJ 1439
+- 입력: 0과 1로만 이루어진 문자열
+- 출력: 문자열을 0 또는 1로만 만들기 위해서 뒤집어야 하는 횟수
+<br></br>
+### Q04. 만들 수 없는 금액 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Greedy/q04.py)
+- 입력: 동전의 개수 n과 n개의 화폐 단위
+- 출력: 동전들로 만들 수 없는 양의 정수 
+---
 <div align="right"><a href="https://github.com/100g-dev/Coding_Test">메인 화면으로 ↩</a></div>
