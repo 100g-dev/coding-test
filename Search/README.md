@@ -37,5 +37,14 @@
 - n*m 크기의 미로에서 (1, 1)의 위치에서 출구인 (n, m)으로 이동해야 한다. 괴물이 있는 부분은 0으로 없는 부분은 1로 표시될 때, 움직여야 하는 최소칸의 개수를 구하여라.
 - 최단경로 -> BFS
 ---
+<br></br>
+## 기출문제
+
+### Q15. 특정 거리의 도시 찾기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Search/q15.py)
+- BOJ18352
+- 입력: 도시의 개수 n, 도로 개수 m, 최단 거리 k, 출발 도시 번호 x
+- 출력: 최단 거리가 k인 도시의 개수 (단, 도시가 없다면 -1)
+<br></br>
+---
 
 <div align="right"><a href="https://github.com/100g-dev/Coding_Test">메인 화면으로 ↩</a></div>
