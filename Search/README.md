@@ -41,7 +41,7 @@
 ## 기출문제
 
 ### Q15. 특정 거리의 도시 찾기 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Search/q15.py)
-- BOJ18352
+- BOJ 18352
 - 입력: 도시의 개수 n, 도로 개수 m, 최단 거리 k, 출발 도시 번호 x
 - 출력: 최단 거리가 k인 도시의 개수 (단, 도시가 없다면 -1)
 <br></br>
