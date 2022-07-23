@@ -28,5 +28,19 @@
     2. 해당방향에 칸이 존재하면 해당 칸으로 이동, 없으면 회전만 수행
     3. 네 방향이 모두 이미 가본 칸이거나 바다인 경우 방향을 유지한 채로 한 칸 뒤로 이동하고 1단계 반복, 뒤가 바다인 경우 종료
 ---
+<br></br>
+## 기출문제
 
+### Q07. 럭키 스트레이트 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Implementation/q07.py)
+- 자릿수 기준으로 점수 N을 반으로 나누었을 때, 왼쪽 부분의 합과 오른쪽 부분의 합을 비교 (단, n의 자릿수는 짝수)
+- 같을 경우 "LUCKY", 다른 경우 "READY"를  출력
+<br></br>
+### Q08.  문자열 재정렬 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Implementation/q08.py)
+- 알파벳 대문자와 숫자(0~9)로만 구성된 문자열이 입력
+- 모든 알파벳을 오름차순으로 정렬하여 출력하고, 뒤에 모든 숫자를 더한 값을 이어서 출력
+<br></br>
+### Q09. 문자열 압축 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Implementation/q09.py)
+- 카카오 기출문제 [→](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+<br></br>
+---
 <div align="right"><a href="https://github.com/100g-dev/Coding_Test">메인 화면으로 ↩</a></div>
