@@ -46,5 +46,23 @@
 ### 2. 성적 출력 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Sort/grade.py)
 - n명의 학생 이름과 성적 정보가 입력될 때, 성적이 낮은 순서로 학생 이름을 출력하여라.
 ---
+<br></br>
+## 기출문제
 
+### Q23. 국영수 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Sort/q23.py)
+- n명의 이름과 국어, 영어, 수학 점수가 주어질 때, 아래의 조건에 맞춰 학생의 이름을 출력
+1. 국어 점수가 감소하는 순서
+2. 국어 점수가 같으면 영어 점수가 증가하는 순서
+3. 국어, 영어가 같으면 수학 점수가 감소하는 순서
+4. 모든 점수가 같으면 이름 사전 순
+<br></br>
+
+### Q24. 안테나 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Sort/q24.py)
+- 집의 위치가 주어질 때, 모든 집 까지으 ㅣ거리가 최소가 되는 안테나의 위치를 출력
+<br></br>
+
+### Q25. 실패율 [↗](https://github.com/100g-dev/Coding_Test/blob/main/Sort/q25.py)
+- [프로그래머스 42889](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
+<br></br>
+---
 <div align="right"><a href="https://github.com/100g-dev/Coding_Test">메인 화면으로 ↩</a></div>
