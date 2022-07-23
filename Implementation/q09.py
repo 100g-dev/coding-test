@@ -23,5 +23,3 @@ for i in range(1, len(s)//2+1):
             count = 1
 
     answer = min(answer, len(result))
-
-return answer
